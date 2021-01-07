@@ -21,7 +21,7 @@ body {
 
 }
 
-a {
+a:link, a:active, a:visited{
   color: rgb(255, 242, 55);
 }
 
