@@ -21,6 +21,10 @@ body {
 
 }
 
+a {
+  color: rgb(255, 249, 163);
+}
+
 
 .polcies {
    max-width: 600px;
