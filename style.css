@@ -73,6 +73,16 @@ h2 {
   
 }
 
+.assignments { 
+  max-width: 600;
+
+}
+
+table {
+  border: 1px solid rgb(255, 242, 55); border-collapse: collapse;
+ }
+ 
+
 .projects {
   margin-left: 150px;
   margin-top: 30px;
